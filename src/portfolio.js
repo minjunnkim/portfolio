@@ -274,6 +274,9 @@ const bigProjects = {
           url: "https://github.com/nabinkim0318/Respiratory-Diagnosis-Assistant/"
         }
       ]
+    },
+    {
+      
     }
   ],
   display: true // Set false to hide this section, defaults to true
