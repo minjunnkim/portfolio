@@ -250,7 +250,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "Personal Projects and Projects from Courses at Georgia Tech",
+  subtitle: "Personal Projects and Projects from GT Courses",
   projects: [
     {
       image: require("./assets/images/housingLogo.jpg"),
@@ -276,8 +276,27 @@ const bigProjects = {
       ]
     },
     {
-      
-    }
+      image: require("./assets/images/respdiagassistLogo.png"),
+      projectName: "Respiratory Diagnosis Assistant",
+      projectDesc: "Tool designed to assist in diagnosing respiratory conditions based on audio recordings. It utilizes Amazon S3 for storing audio files and MongoDB for managing data. Uses Gated Recurrent Units (GRU). CS 4440: Emerging Database Technologies. Instructor: Kexin Rong.",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/nabinkim0318/Respiratory-Diagnosis-Assistant/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/respdiagassistLogo.png"),
+      projectName: "Respiratory Diagnosis Assistant",
+      projectDesc: "Tool designed to assist in diagnosing respiratory conditions based on audio recordings. It utilizes Amazon S3 for storing audio files and MongoDB for managing data. Uses Gated Recurrent Units (GRU). CS 4440: Emerging Database Technologies. Instructor: Kexin Rong.",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/nabinkim0318/Respiratory-Diagnosis-Assistant/"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
