@@ -287,7 +287,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/hftLogo.png"),
+      image: require("./assets/images/hftLogo.jpg"),
       projectName: "High-Frequency Trading Predictive Analysis",
       projectDesc: "Analysis of high-frequency trading data to identify patterns, anomalies, and insights.",
       footerLink: [
