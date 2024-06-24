@@ -278,7 +278,7 @@ const bigProjects = {
     {
       image: require("./assets/images/imdbLogo.png"),
       projectName: "IMDb Sentiment Analysis",
-      projectDesc: "",
+      projectDesc: "Sentiment Analysis model that classifies movie reviews into positive or negative sentiments based on a model trained on the imdb_reviews dataset from the TensorFlow Dataset (tfds) library",
       footerLink: [
         {
           name: "Visit Github Repo",
@@ -287,13 +287,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/respdiagassistLogo.png"),
-      projectName: "Respiratory Diagnosis Assistant",
-      projectDesc: "Tool designed to assist in diagnosing respiratory conditions based on audio recordings. It utilizes Amazon S3 for storing audio files and MongoDB for managing data. Uses Gated Recurrent Units (GRU). CS 4440: Emerging Database Technologies. Instructor: Kexin Rong.",
+      image: require("./assets/images/hftLogo.png"),
+      projectName: "High-Frequency Trading Predictive Analysis",
+      projectDesc: "Analysis of high-frequency trading data to identify patterns, anomalies, and insights.",
       footerLink: [
         {
           name: "Visit Github Repo",
-          url: "https://github.com/nabinkim0318/Respiratory-Diagnosis-Assistant/"
+          url: "https://github.com/minjunnkim/hft_analysis"
         }
       ]
     },
