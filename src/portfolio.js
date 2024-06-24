@@ -276,13 +276,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/respdiagassistLogo.png"),
-      projectName: "Respiratory Diagnosis Assistant",
-      projectDesc: "Tool designed to assist in diagnosing respiratory conditions based on audio recordings. It utilizes Amazon S3 for storing audio files and MongoDB for managing data. Uses Gated Recurrent Units (GRU). CS 4440: Emerging Database Technologies. Instructor: Kexin Rong.",
+      image: require("./assets/images/imdbLogo.png"),
+      projectName: "IMDb Sentiment Analysis",
+      projectDesc: "",
       footerLink: [
         {
           name: "Visit Github Repo",
-          url: "https://github.com/nabinkim0318/Respiratory-Diagnosis-Assistant/"
+          url: "https://github.com/minjunnkim/imdb_sentiment"
         }
       ]
     },
