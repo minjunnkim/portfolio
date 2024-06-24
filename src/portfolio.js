@@ -253,6 +253,39 @@ const bigProjects = {
   subtitle: "Personal Projects and Projects from GT Courses",
   projects: [
     {
+      image: require("./assets/images/tftLogo.jpg"),
+      projectName: "TFT Post-Game Analytics",
+      projectDesc: "Post-game analytics on data for Teamfight Tactics (TFT) using Riot API and various machine learning and deep learning techniques. The goal is to explore the relationship between game features and player performance, optimize models using TensorRT, and compare performance metrics between PyTorch and TensorRT models.",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/minjunnkim/tft_analysis"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/hftLogo.jpg"),
+      projectName: "High-Frequency Trading Predictive Analysis",
+      projectDesc: "Analysis of high-frequency trading data to identify patterns, anomalies, and insights.",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/minjunnkim/hft_analysis"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/imdbLogo.png"),
+      projectName: "IMDb Sentiment Analysis",
+      projectDesc: "Sentiment Analysis model that classifies movie reviews into positive or negative sentiments based on a model trained on the imdb_reviews dataset from the TensorFlow Dataset (tfds) library",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/minjunnkim/imdb_sentiment"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/housingLogo.jpg"),
       projectName: "Housing Price Prediction",
       projectDesc: "Employs supervised and unsupervised machine learning algorithms to accurately predict housing prices. Refer to the Final Report page. CS 7641: Graduate Machine Learning. Instructor: Max Mahdi Roozbahani.",
@@ -272,28 +305,6 @@ const bigProjects = {
         {
           name: "Visit Github Repo",
           url: "https://github.com/nabinkim0318/Respiratory-Diagnosis-Assistant/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/imdbLogo.png"),
-      projectName: "IMDb Sentiment Analysis",
-      projectDesc: "Sentiment Analysis model that classifies movie reviews into positive or negative sentiments based on a model trained on the imdb_reviews dataset from the TensorFlow Dataset (tfds) library",
-      footerLink: [
-        {
-          name: "Visit Github Repo",
-          url: "https://github.com/minjunnkim/imdb_sentiment"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/hftLogo.jpg"),
-      projectName: "High-Frequency Trading Predictive Analysis",
-      projectDesc: "Analysis of high-frequency trading data to identify patterns, anomalies, and insights.",
-      footerLink: [
-        {
-          name: "Visit Github Repo",
-          url: "https://github.com/minjunnkim/hft_analysis"
         }
       ]
     },

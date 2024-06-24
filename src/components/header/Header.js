@@ -5,6 +5,7 @@ import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
 import {
   greeting,
+  educationInfo,
   workExperiences,
   skillsSection,
   openSource,
@@ -25,6 +26,7 @@ function Header() {
   const viewTalks = talkSection.display;
   const viewResume = resumeSection.display;
   const viewProjects = bigProjects.display;
+  const viewEducation = educationInfo.display;
 
   return (
     <Headroom>
@@ -46,6 +48,11 @@ function Header() {
           {viewSkills && (
             <li>
               <a href="#skills">Skills</a>
+            </li>
+          )}
+          {viewEducation && (
+            <li>
+              <a href="#education">Education</a>
             </li>
           )}
           {viewExperience && (
