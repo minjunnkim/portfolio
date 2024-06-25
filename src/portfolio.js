@@ -261,27 +261,6 @@ const personalProjects = {
         }
       ]
     },
-  ],
-  display: true 
-}
-
-// Some big projects you have worked on
-
-const bigProjects = {
-  title: "Projects",
-  subtitle: "Personal Projects and Projects from GT Courses",
-  projects: [
-    {
-      image: require("./assets/images/tftLogo.png"),
-      projectName: "TFT Post-Game Analytics",
-      projectDesc: "Post-game analytics on data for Teamfight Tactics (TFT) using Riot API and various machine learning and deep learning techniques. ",
-      footerLink: [
-        {
-          name: "Visit Github Repo",
-          url: "https://github.com/minjunnkim/tft_analysis"
-        }
-      ]
-    },
     {
       image: require("./assets/images/hftLogo.jpg"),
       projectName: "High-Frequency Trading Predictive Analysis",
@@ -304,6 +283,16 @@ const bigProjects = {
         }
       ]
     },
+  ],
+  display: true 
+}
+
+// Some big projects you have worked on
+
+const bigProjects = {
+  title: "Projects",
+  subtitle: "Personal Projects and Projects from GT Courses",
+  projects: [
     {
       image: require("./assets/images/housingLogo.jpg"),
       projectName: "Housing Price Prediction",
