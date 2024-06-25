@@ -408,6 +408,33 @@ const achievementSection = {
       ]
     },
     
+    
+    {
+      title: "Introduction to Containers, Kubernetes, and OpenShift",
+      subtitle: "edX | IBM",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        {
+          name: "Certificate",
+          url: "https://courses.edx.org/certificates/bec64deefac047ef93df817688d83000"
+        },
+      ]
+    },
+    
+    {
+      title: "Microservices, Serverless, OpenShift",
+      subtitle: "edX | IBM",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        {
+          name: "Certificate",
+          url: "https://courses.edx.org/certificates/a7a04fdd03d04a6b85426910f245d82d"
+        },
+      ]
+    },
+
     {
       title: "Front-End Web Developer",
       subtitle: "edX | W3C",
@@ -417,19 +444,6 @@ const achievementSection = {
         {
           name: "Certificate",
           url: "https://credentials.edx.org/credentials/58f1724c6d91490cbe71ea4ad52e7511/"
-        },
-      ]
-    },
-    
-    {
-      title: "HTML5 from W3C",
-      subtitle: "edX | W3C",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certificate",
-          url: "https://credentials.edx.org/credentials/ffc3de440cc64400b0189ffcbd965f3f/"
         },
       ]
     },
