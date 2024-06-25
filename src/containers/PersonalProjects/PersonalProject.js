@@ -1,5 +1,5 @@
 import React, {useContext} from "react";
-import "./PersonalProjects.scss";
+import "./PersonalProject.scss";
 import {personalProjects} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
