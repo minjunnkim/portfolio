@@ -413,7 +413,7 @@ const achievementSection = {
     {
       title: "Microservices, Serverless, OpenShift",
       subtitle: "edX | IBM",
-      image: require("./assets/images/imbLogo.jpg"),
+      image: require("./assets/images/ibmLogo.jpg"),
       imageAlt: "IBM Logo",
       footerLink: [
         {
