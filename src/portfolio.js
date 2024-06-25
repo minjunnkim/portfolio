@@ -324,13 +324,13 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Certificates 🏆"),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Certificates from MOOCs that I've done. Spans from subjects in Physics, Law, to Mathematics and Computer Science.",
 
   achievementsCards: [
     {
-      title: "Mathematics for Machine Learning Specialization ",
+      title: "Mathematics for Machine Learning",
       subtitle:
         "Coursera | Imperial College London",
       image: require("./assets/images/codeInLogo.webp"),
@@ -343,7 +343,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Introduction to Complex Analysis Course Certificate",
+      title: "Introduction to Complex Analysis",
       subtitle:
         "Coursera | Wesleyan University",
       image: require("./assets/images/googleAssistantLogo.webp"),
@@ -357,7 +357,7 @@ const achievementSection = {
     },
 
     {
-      title: "C Programming with Linux Professional Certificate",
+      title: "C Programming with Linux",
       subtitle: "edX | Dartmouth & IMT",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
@@ -370,7 +370,7 @@ const achievementSection = {
     },
     
     {
-      title: "Cloud Application Development Foundations Professional Certificate",
+      title: "Cloud Application Development Foundations",
       subtitle: "edX | IBM",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
@@ -383,7 +383,7 @@ const achievementSection = {
     },
     
     {
-      title: "Front-End Web Developer Professional Certificate",
+      title: "Front-End Web Developer",
       subtitle: "edX | W3C",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
@@ -396,26 +396,26 @@ const achievementSection = {
     },
     
     {
-      title: "HTML5 from W3C X Series Certificate",
+      title: "HTML5 from W3C",
       subtitle: "edX | W3C",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "Certificate",
+          name: "link",
           url: "https://credentials.edx.org/credentials/ffc3de440cc64400b0189ffcbd965f3f/"
         },
       ]
     },
 
     {
-      title: "a",
-      subtitle: "a",
+      title: "Astrophysics",
+      subtitle: "edX | ANU",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "Astrophysics X Series Certificate",
+          name: "link",
           url: "https://credentials.edx.org/credentials/e301a73e892c4de8840af9664774e317/"
         },
       ]
