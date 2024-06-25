@@ -333,8 +333,8 @@ const achievementSection = {
     {
       title: "Fundamentals of Quantitative Modeling",
       subtitle: "Cousera | UPenn Wharton",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/whartonLogo.png"),
+      imageAlt: "UPenn Wharton Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -347,8 +347,8 @@ const achievementSection = {
       title: "Mathematics for Machine Learning",
       subtitle:
         "Coursera | Imperial College London",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/iclLogo.jpg"),
+      imageAlt: "ICL Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -360,8 +360,8 @@ const achievementSection = {
       title: "Exploring Quantum Physics",
       subtitle:
         "Coursera | University of Maryland",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/umdLogo.png"),
+      imageAlt: "UMD Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -373,8 +373,8 @@ const achievementSection = {
       title: "Introduction to Complex Analysis",
       subtitle:
         "Coursera | Wesleyan University",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      image: require("./assets/images/wesleyanLogo.png"),
+      imageAlt: "Wesleyan Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -386,8 +386,8 @@ const achievementSection = {
     {
       title: "C Programming with Linux",
       subtitle: "edX | Dartmouth & IMT",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/dartmouthLogo.png"),
+      imageAlt: "Dartmouth Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -399,8 +399,8 @@ const achievementSection = {
     {
       title: "Cloud Application Development Foundations",
       subtitle: "edX | IBM",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/ibmLogo.jpg"),
+      imageAlt: "IBM Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -413,8 +413,8 @@ const achievementSection = {
     {
       title: "Microservices, Serverless, OpenShift",
       subtitle: "edX | IBM",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/imbLogo.jpg"),
+      imageAlt: "IBM Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -426,8 +426,8 @@ const achievementSection = {
     {
       title: "Front-End Web Developer",
       subtitle: "edX | W3C",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/w3cLogo.png"),
+      imageAlt: "W3C Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -439,8 +439,8 @@ const achievementSection = {
     {
       title: "Astrophysics",
       subtitle: "edX | ANU",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      image: require("./assets/images/anuLogo.png"),
+      imageAlt: "ANU Logo",
       footerLink: [
         {
           name: "Certificate",
@@ -453,8 +453,8 @@ const achievementSection = {
       title: "Oracle Certified Associate, Java SE 8 Programmer",
       subtitle:
         "Oracle",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/oracleLogo.png"),
+      imageAlt: "Oracle Logo",
       footerLink: [
         {
           name: "Certificate",
