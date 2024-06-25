@@ -255,7 +255,7 @@ const bigProjects = {
     {
       image: require("./assets/images/tftLogo.png"),
       projectName: "TFT Post-Game Analytics",
-      projectDesc: "Post-game analytics on data for Teamfight Tactics (TFT) using Riot API and various machine learning and deep learning techniques. The goal is to explore the relationship between game features and player performance, optimize models using TensorRT, and compare performance metrics between PyTorch and TensorRT models.",
+      projectDesc: "Post-game analytics on data for Teamfight Tactics (TFT) using Riot API and various machine learning and deep learning techniques. ",
       footerLink: [
         {
           name: "Visit Github Repo",
@@ -288,7 +288,7 @@ const bigProjects = {
     {
       image: require("./assets/images/housingLogo.jpg"),
       projectName: "Housing Price Prediction",
-      projectDesc: "Employs supervised and unsupervised machine learning algorithms to accurately predict housing prices. Refer to the Final Report page. CS 7641: Graduate Machine Learning. Instructor: Max Mahdi Roozbahani.",
+      projectDesc: "Employs supervised and unsupervised machine learning algorithms to accurately predict housing prices. Refer to the Final Report page.",
       footerLink: [
         {
           name: "Visit Streamlit App",
@@ -300,7 +300,7 @@ const bigProjects = {
     {
       image: require("./assets/images/respdiagassistLogo.png"),
       projectName: "Respiratory Diagnosis Assistant",
-      projectDesc: "Tool designed to assist in diagnosing respiratory conditions based on audio recordings. It utilizes Amazon S3 for storing audio files and MongoDB for managing data. Uses Gated Recurrent Units (GRU). CS 4440: Emerging Database Technologies. Instructor: Kexin Rong.",
+      projectDesc: "Tool designed to assist in diagnosing respiratory conditions based on audio recordings. It utilizes Amazon S3 for storing audio files and MongoDB for managing data. Uses Gated Recurrent Units (GRU).",
       footerLink: [
         {
           name: "Visit Github Repo",
