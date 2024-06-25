@@ -290,8 +290,8 @@ const personalProjects = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Projects",
-  subtitle: "Personal Projects and Projects from GT Courses",
+  title: "Coursework Projects",
+  subtitle: "Projects from Georgia Tech Courses",
   projects: [
     {
       image: require("./assets/images/housingLogo.jpg"),
