@@ -6,6 +6,7 @@ import StackProgress from "./skillProgress/skillProgress";
 import WorkExperience from "./workExperience/WorkExperience";
 import Projects from "./projects/Projects";
 import StartupProject from "./StartupProjects/StartupProject";
+import PeronsalProject from "./PersonalProjects/PersonalProject"
 import Achievement from "./achievement/Achievement";
 import Blogs from "./blogs/Blogs";
 import Footer from "../components/footer/Footer";
@@ -57,6 +58,7 @@ const Main = () => {
             <Education />
             <WorkExperience />
             <Projects />
+            <PeronsalProject />
             <StartupProject />
             <Achievement />
             <Blogs />
