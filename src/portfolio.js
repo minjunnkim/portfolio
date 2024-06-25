@@ -330,79 +330,79 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "a",
+      title: "Mathematics for Machine Learning Specialization ",
       subtitle:
-        "a",
+        "Coursera | Imperial College London",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
-          name: "Mathematics for Machine Learning Specialization Certificate",
+          name: "Certificate",
           url: "https://coursera.org/share/fd7ee3f7e56c2ea8fc7cbb9660d3e4c6"
         },
       ]
     },
     {
-      title: "a",
+      title: "Introduction to Complex Analysis Course Certificate",
       subtitle:
-        "a",
+        "Coursera | Wesleyan University",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "Introduction to Complex Analysis Course Certificate",
+          name: "Certificate",
           url: "https://coursera.org/share/c554ea743b31fa4f770bc4af1c1a2d1d"
         },
       ]
     },
 
     {
-      title: "a",
-      subtitle: "a",
+      title: "C Programming with Linux Professional Certificate",
+      subtitle: "edX | Dartmouth & IMT",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "C Programming with Linux Professional Certificate",
+          name: "Certificate",
           url: "https://credentials.edx.org/credentials/559dd859b62c4f01b2e74c91158aa473/"
         },
       ]
     },
     
     {
-      title: "a",
-      subtitle: "a",
+      title: "Cloud Application Development Foundations Professional Certificate",
+      subtitle: "edX | IBM",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "Cloud Application Development Foundations Professional Certificate",
+          name: "Certificate",
           url: "https://credentials.edx.org/credentials/152b773e036341879af2c8803654ea75/"
         },
       ]
     },
     
     {
-      title: "a",
-      subtitle: "a",
+      title: "Front-End Web Developer Professional Certificate",
+      subtitle: "edX | W3C",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "Front-End Web Developer Professional Certificate",
+          name: "Certificate",
           url: "https://credentials.edx.org/credentials/58f1724c6d91490cbe71ea4ad52e7511/"
         },
       ]
     },
     
     {
-      title: "a",
-      subtitle: "a",
+      title: "HTML5 from W3C X Series Certificate",
+      subtitle: "edX | W3C",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "HTML5 from W3C X Series Certificate",
+          name: "Certificate",
           url: "https://credentials.edx.org/credentials/ffc3de440cc64400b0189ffcbd965f3f/"
         },
       ]
