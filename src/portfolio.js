@@ -329,19 +329,20 @@ const achievementSection = {
     "Certifications mainly from MOOCs. Spans from subjects in Physics, Law, to Mathematics and Computer Science. There are a lot more than listed; a full list can be found in my LinkedIn Profile.",
 
   achievementsCards: [
+
     {
-      title: "Oracle Certified Associate, Java SE 8 Programmer",
-      subtitle:
-        "Oracle",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      title: "Fundamentals of Quantitative Modeling",
+      subtitle: "Cousera | UPenn Wharton",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
       footerLink: [
         {
           name: "Certificate",
-          url: "https://www.credly.com/badges/1870430e-02ed-44c1-8f1d-a6162e9bf191?source=linked_in_profile"
+          url: "https://coursera.org/share/80dae833939860062caeaecc6637bca8"
         },
       ]
     },
+
     {
       title: "Mathematics for Machine Learning",
       subtitle:
@@ -410,19 +411,6 @@ const achievementSection = {
     
     
     {
-      title: "Introduction to Containers, Kubernetes, and OpenShift",
-      subtitle: "edX | IBM",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certificate",
-          url: "https://courses.edx.org/certificates/bec64deefac047ef93df817688d83000"
-        },
-      ]
-    },
-    
-    {
       title: "Microservices, Serverless, OpenShift",
       subtitle: "edX | IBM",
       image: require("./assets/images/pwaLogo.webp"),
@@ -461,6 +449,19 @@ const achievementSection = {
       ]
     },
 
+    {
+      title: "Oracle Certified Associate, Java SE 8 Programmer",
+      subtitle:
+        "Oracle",
+      image: require("./assets/images/codeInLogo.webp"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certificate",
+          url: "https://www.credly.com/badges/1870430e-02ed-44c1-8f1d-a6162e9bf191?source=linked_in_profile"
+        },
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
