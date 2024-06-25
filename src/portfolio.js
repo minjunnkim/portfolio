@@ -246,6 +246,25 @@ const openSource = {
   display: false // Set false to hide this section, defaults to true
 };
 
+const personalProjects = { 
+  title: "Personal Projects",
+  subtitle: "Personal Projects",
+  projects: [
+    {
+      image: require("./assets/images/tftLogo.png"),
+      projectName: "TFT Post-Game Analytics",
+      projectDesc: "Post-game analytics on data for Teamfight Tactics (TFT) using Riot API and various machine learning and deep learning techniques. ",
+      footerLink: [
+        {
+          name: "Visit Github Repo",
+          url: "https://github.com/minjunnkim/tft_analysis"
+        }
+      ]
+    },
+  ],
+  display: true 
+}
+
 // Some big projects you have worked on
 
 const bigProjects = {
