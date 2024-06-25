@@ -253,7 +253,7 @@ const bigProjects = {
   subtitle: "Personal Projects and Projects from GT Courses",
   projects: [
     {
-      image: require("./assets/images/tftLogo.jpg"),
+      image: require("./assets/images/tftLogo.png"),
       projectName: "TFT Post-Game Analytics",
       projectDesc: "Post-game analytics on data for Teamfight Tactics (TFT) using Riot API and various machine learning and deep learning techniques. The goal is to explore the relationship between game features and player performance, optimize models using TensorRT, and compare performance metrics between PyTorch and TensorRT models.",
       footerLink: [
