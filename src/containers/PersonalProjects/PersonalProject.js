@@ -32,7 +32,7 @@ export default function StartupProject() {
             {personalProjects.subtitle}
           </p>
 
-          <div className="personal-projects-container">
+          <div className="projects-container">
             {personalProjects.projects.map((project, i) => {
               return (
                 <div
