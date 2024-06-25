@@ -5,7 +5,7 @@ import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function StartupProject() {
-  function openUrlInNewTab(url) {
+  function openUrlInNewTab(url) {   
     if (!url) {
       return;
     }
@@ -19,7 +19,7 @@ export default function StartupProject() {
   }
   return (
     <Fade bottom duration={1000} distance="20px">
-      <div className="main" id="projects">
+      <div className="main" id="personal-projects">
         <div>
           <h1 className="skills-heading">{personalProjects.title}</h1>
           <p
@@ -32,7 +32,7 @@ export default function StartupProject() {
             {personalProjects.subtitle}
           </p>
 
-          <div className="projects-container">
+          <div className="personal-projects-container">
             {personalProjects.projects.map((project, i) => {
               return (
                 <div
