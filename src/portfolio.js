@@ -324,9 +324,9 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Certificates 🏆"),
+  title: emoji("Achievements 🏆"),
   subtitle:
-    "Certificates from MOOCs that I've done. Spans from subjects in Physics, Law, to Mathematics and Computer Science. There are a lot more than listed; they can be found in my LinkedIn Profile.",
+    "Competition awards and certificates from MOOCs that I've done. Spans from subjects in Physics, Law, to Mathematics and Computer Science. There are a lot more than listed; they can be found in my LinkedIn Profile.",
 
   achievementsCards: [
     {
@@ -339,6 +339,19 @@ const achievementSection = {
         {
           name: "Certificate",
           url: "https://coursera.org/share/fd7ee3f7e56c2ea8fc7cbb9660d3e4c6"
+        },
+      ]
+    },
+    {
+      title: "Exploring Quantum Physics",
+      subtitle:
+        "Coursera | University of Maryland",
+      image: require("./assets/images/codeInLogo.webp"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certificate",
+          url: "https://coursera.org/share/c7a82e66b98a8a8b0cfa3004198d146b"
         },
       ]
     },
@@ -402,7 +415,7 @@ const achievementSection = {
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "link",
+          name: "Certificate",
           url: "https://credentials.edx.org/credentials/ffc3de440cc64400b0189ffcbd965f3f/"
         },
       ]
@@ -415,7 +428,7 @@ const achievementSection = {
       imageAlt: "PWA Logo",
       footerLink: [
         {
-          name: "link",
+          name: "Certificate",
           url: "https://credentials.edx.org/credentials/e301a73e892c4de8840af9664774e317/"
         },
       ]
