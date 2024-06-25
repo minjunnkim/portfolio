@@ -326,7 +326,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Certificates 🏆"),
   subtitle:
-    "Certificates from MOOCs that I've done. Spans from subjects in Physics, Law, to Mathematics and Computer Science.",
+    "Certificates from MOOCs that I've done. Spans from subjects in Physics, Law, to Mathematics and Computer Science. There are a lot more than listed; they can be found in my LinkedIn Profile.",
 
   achievementsCards: [
     {
