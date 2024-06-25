@@ -290,7 +290,7 @@ const personalProjects = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Coursework Projects",
+  title: "Course Projects",
   subtitle: "Projects from Georgia Tech Courses",
   projects: [
     {
@@ -326,9 +326,22 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements 🏆"),
   subtitle:
-    "Competition awards and certificates from MOOCs that I've done. Spans from subjects in Physics, Law, to Mathematics and Computer Science. There are a lot more than listed; they can be found in my LinkedIn Profile.",
+    "Certifications mainly from MOOCs. Spans from subjects in Physics, Law, to Mathematics and Computer Science. There are a lot more than listed; a full list can be found in my LinkedIn Profile.",
 
   achievementsCards: [
+    {
+      title: "Oracle Certified Associate, Java SE 8 Programmer",
+      subtitle:
+        "Oracle",
+      image: require("./assets/images/codeInLogo.webp"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certificate",
+          url: "https://www.credly.com/badges/1870430e-02ed-44c1-8f1d-a6162e9bf191?source=linked_in_profile"
+        },
+      ]
+    },
     {
       title: "Mathematics for Machine Learning",
       subtitle:
