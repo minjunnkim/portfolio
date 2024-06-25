@@ -337,17 +337,33 @@ const achievementSection = {
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "Mathematics for Machine Learning Specialization Certificate",
+          url: "https://coursera.org/share/fd7ee3f7e56c2ea8fc7cbb9660d3e4c6"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          name: "Introduction to Complex Analysis Course Certificate",
+          url: "https://coursera.org/share/c554ea743b31fa4f770bc4af1c1a2d1d"
         },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+          name: "C Programming with Linux Professional Certificate",
+          url: "https://credentials.edx.org/credentials/559dd859b62c4f01b2e74c91158aa473/"
+        },
+        {
+          name: "Cloud Application Development Foundations Professional Certificate",
+          url: "https://credentials.edx.org/credentials/152b773e036341879af2c8803654ea75/"
+        },
+        {
+          name: "Front-End Web Developer Professional Certificate",
+          url: "https://credentials.edx.org/credentials/58f1724c6d91490cbe71ea4ad52e7511/"
+        },
+        {
+          name: "HTML5 from W3C X Series Certificate",
+          url: "https://credentials.edx.org/credentials/ffc3de440cc64400b0189ffcbd965f3f/"
+        },
+        {
+          name: "Astrophysics X Series Certificate",
+          url: "https://credentials.edx.org/credentials/e301a73e892c4de8840af9664774e317/"
+        },
       ]
     },
     {
