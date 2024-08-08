@@ -225,6 +225,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Machine Learning Research Intern",
+      company: "Getaway Space Inc.",
+      companylogo: require("./assets/images/getawayspaceLogo.jpg"),
+      date: "May 2024 – August 2024",
+      desc: "",
+      descBullets: [
+        "As a ML Research Intern at the startup, Getaway Space, I researched the integration of machine learning algorithms in their EV Charging stations and created a Raspberry Pi prototype.",
+        "Proposed a user-habit based system, which scans the car’s license plate using a YOLO model with OpenCV, along with OCR, displaying a Netflix-like profiles screen for different drivers, enabling each driver to have a customized and a cost-efficient charging experience.",
+        "Used RNN & LSTM networks to predict user habits and reinforcement learning for cost efficiency."
+      ]
+    },
+    {
       role: "Project Intern",
       company: "Robomation",
       companylogo: require("./assets/images/robomationLogo.png"),
